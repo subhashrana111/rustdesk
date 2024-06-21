@@ -9,7 +9,7 @@ import shutil
 import hashlib
 import argparse
 import sys
-
+#adding commit to the python file.
 windows = platform.platform().startswith('Windows')
 osx = platform.platform().startswith(
     'Darwin') or platform.platform().startswith("macOS")
